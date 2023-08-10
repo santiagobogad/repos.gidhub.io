@@ -420,7 +420,7 @@ input :placeholder-shown{
         font-size: 1.3rem;
     }
     header , main,form ,footer {
-        width: 100%;
+        width:535px;
         margin: auto ;
         background: #ffffff;
         justify-content: center;
