@@ -52,7 +52,7 @@ header{
 
 .conedor__textp a{
     position: relative;
-   left: 77%;
+   left: 65%;
    bottom: 18px;
    padding: 10px;
    color: #2e0de8;
@@ -420,7 +420,7 @@ input :placeholder-shown{
         font-size: 1.3rem;
     }
     header , main,form ,footer {
-        width:535px;
+        width:510px;
         margin: auto ;
         background: #ffffff;
         justify-content: center;
@@ -443,7 +443,7 @@ input :placeholder-shown{
     
     .conedor__textp a{
         position: relative;
-        left: 52%;
+        left: 45%;
         padding: 10px;
         color: #2e0de8;
         margin: 3px;
