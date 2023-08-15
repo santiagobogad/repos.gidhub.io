@@ -646,7 +646,7 @@ input :placeholder-shown{
      }
 
      #contenedor__padre__final1{
-       width: 40%;
+       width: 45%;
        position: relative;
        top: -10rem;
        height:300px;        
@@ -681,8 +681,7 @@ input :placeholder-shown{
         border-radius: 15px;
         position: relative;
         left: 0;
-        top:-120px
-        box-shadow: 0px 0px 8px 1px black;
+        top:-120px;
     
     }
      .form__hijo{
