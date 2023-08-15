@@ -641,7 +641,7 @@ input :placeholder-shown{
   
     .tex__final{
         position: relative;
-        width: 50%;
+        width: 40%;
        padding: 0px 8px; 
      }
 
@@ -665,7 +665,7 @@ input :placeholder-shown{
     .tex__final1{
      
         position: relative;
-        width: 80%;
+        width: 90%;
         padding: 0px 8px;
      
     }
@@ -682,7 +682,7 @@ input :placeholder-shown{
         position: relative;
         left: 0;
         top:-120px
-        box-shadow: 0px 0px 8px 1px rgb(0,0,0);
+        box-shadow: 0px 0px 8px 1px black;
     
     }
      .form__hijo{
