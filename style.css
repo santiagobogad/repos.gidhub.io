@@ -551,7 +551,7 @@ input :placeholder-shown{
     }
     .contenedor__main__img img{
         width: 90%;
-        margin-top:-15rem;
+        margin-top:-1.2rem;
     }
     .contenedor__tex__main a {
         color: #0065ff;
